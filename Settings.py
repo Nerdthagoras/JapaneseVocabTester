@@ -1,0 +1,14 @@
+play_audio = True
+shuff = True
+Display = True
+Sound = True
+question_num = 0
+time_to_answer = 0
+score = 0
+Test = 1
+Endless = 0
+Max_answers = 4
+file_path = ""
+all_questions = []
+reducedanswers = False
+original_Max_answers = 0
